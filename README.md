@@ -19,9 +19,13 @@ The Logistics Analysis Dashboard provides a comprehensive and interactive soluti
 # Business Requirements
 
 •	To monitor overall shipment performance.
+
 •	To analyze on-time and delayed deliveries.
+
 •	To evaluate transportation costs and profitability.
+
 •	To provide management with actionable insights.
+
 
 
 <a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/blob/main/SWIFTROUTE%20LOGISTICS%20DASHBOARD.docx">Business Requirements</a>
@@ -29,17 +33,25 @@ The Logistics Analysis Dashboard provides a comprehensive and interactive soluti
 # Data Transformation Process
 
 •	Data cleaning (removal of null and duplicate values)
+
 •	Standardization of date formats
+
 •	Creation of calculated columns for delay and profit
+
 •	Establishment of relationships between tables
+
 
 
 
 # Power Bi DashBoard
 
 Overview Page – Displays overall KPIs, shipment trends, and revenue summary.
+
 • Delivery Performance Analysis – Compares on-time vs delayed shipments.
+
 • Cost & Profit Analysis – Shows transportation cost breakdown and profit trends.
+
+
 • Regional Insights – Analyzes shipment distribution and performance by region.
 
 
