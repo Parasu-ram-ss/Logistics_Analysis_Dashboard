@@ -1,2 +1,3 @@
-# Data_Analysis_Dashboard
-The objective of this project is to analyze logistics and supply chain data to monitor operational performance, improve delivery efficiency, reduce costs, and support data-driven decision-making using Power BI.
+# Logistics Performance Analysis Dashboard
+
+The Logistics Analysis Dashboard project focuses on analyzing shipment and supply chain data to evaluate operational efficiency, delivery performance, transportation cost, and profitability. The dashboard was developed using Microsoft Power BI to provide interactive and data-driven insights.
