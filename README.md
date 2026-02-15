@@ -72,8 +72,12 @@ Overview Page – Displays overall KPIs, shipment trends, and revenue summary.
 
 # Business Insights
 
+
 The dashboard helps identify regions with frequent delays, monitor cost fluctuations, improve transportation efficiency, and track revenue and profitability trends for strategic decision-making.
 
+
+
 # Conclusion
+
 
 The Logistics Analysis Dashboard provides a comprehensive and interactive solution for monitoring logistics performance. It supports management in making informed decisions to enhance operational efficiency and optimize supply chain performance.
