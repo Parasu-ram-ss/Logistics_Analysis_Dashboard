@@ -67,7 +67,13 @@ Overview Page – Displays overall KPIs, shipment trends, and revenue summary.
 
 • Regional Insights – Analyzes shipment distribution and performance by region.
 
-![Uploading Screenshot 2026-02-15 114900.png…]()
+<img width="1303" height="769" alt="Screenshot 2026-02-15 114813" src="https://github.com/user-attachments/assets/7b2bbf84-9db1-4cd7-b8bf-0bd4684e8354" />
+
+<img width="1304" height="765" alt="Screenshot 2026-02-15 114828" src="https://github.com/user-attachments/assets/beb5a1ce-ff48-4e9e-9e13-14a49148a831" />
+
+<img width="1307" height="769" alt="Screenshot 2026-02-15 114845" src="https://github.com/user-attachments/assets/35401bb3-499c-4026-8f57-7c0c6bc9b1d3" />
+
+<img width="1306" height="765" alt="Screenshot 2026-02-15 114900" src="https://github.com/user-attachments/assets/31a529d9-b1a3-4202-bad9-7c7d54588360" />
 
 
 
