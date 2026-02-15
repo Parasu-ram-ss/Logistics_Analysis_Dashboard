@@ -21,3 +21,7 @@ The Logistics Analysis Dashboard provides a comprehensive and interactive soluti
 <a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/blob/main/SWIFTROUTE%20LOGISTICS%20DASHBOARD.docx">Business Requirements</a>
 
 
+# Power Bi DashBoard
+
+<a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/blob/main/SWIFTROUTE%20LOGISTICS%20DASHBOARD.docx">Business Requirements</a>
+
