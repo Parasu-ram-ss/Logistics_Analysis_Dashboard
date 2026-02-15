@@ -6,6 +6,19 @@ The Logistics Analysis Dashboard project focuses on analyzing shipment and suppl
 
 # Dataset Used 
 
+The dataset contains logistics and shipment-related information including order details, shipment dates, delivery status, transportation modes, cost, revenue, and regional distribution.
+
+•	Microsoft Power BI Desktop (.pbix)
+
+•	Power Query for Data Transformation
+
+•	Data Modeling and Relationships
+
+•	DAX (Data Analysis Expressions)
+
+
+
+
 <a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/tree/main">dataset</a>
 
 # Project Overview
